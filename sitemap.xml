@@ -3,68 +3,68 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/post/zillow_stats_post2/</loc>
+    <loc>http://katherinechandler.io/post/zillow_stats_post2/</loc>
     <lastmod>2018-05-01T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/post/zillow_eda_post1/</loc>
+    <loc>http://katherinechandler.io/post/zillow_eda_post1/</loc>
     <lastmod>2018-04-01T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/post/chapter-4/</loc>
+    <loc>http://katherinechandler.io/post/chapter-4/</loc>
     <lastmod>2017-04-12T11:14:48-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>http://katherinechandler.io/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>http://katherinechandler.io/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/post/</loc>
+    <loc>http://katherinechandler.io/post/</loc>
     <lastmod>2018-05-01T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>http://katherinechandler.io/</loc>
     <lastmod>2018-05-01T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/scene/</loc>
+    <loc>http://katherinechandler.io/tags/scene/</loc>
     <lastmod>2017-04-12T11:14:48-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>http://katherinechandler.io/tags/</loc>
     <lastmod>2017-04-12T11:14:48-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/travel_blog/</loc>
+    <loc>http://katherinechandler.io/travel_blog/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
