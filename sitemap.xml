@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://katherinechandler.io/post/chapter-4/</loc>
+    <lastmod>2018-07-12T11:14:48-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://katherinechandler.io/post/zillow_stats_post2/</loc>
     <lastmod>2018-05-01T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -12,13 +19,6 @@
   <url>
     <loc>http://katherinechandler.io/post/zillow_eda_post1/</loc>
     <lastmod>2018-04-01T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://katherinechandler.io/post/chapter-4/</loc>
-    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -37,28 +37,28 @@
   
   <url>
     <loc>http://katherinechandler.io/post/</loc>
-    <lastmod>2018-05-01T10:58:08-04:00</lastmod>
+    <lastmod>2018-07-12T11:14:48-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://katherinechandler.io/</loc>
-    <lastmod>2018-05-01T10:58:08-04:00</lastmod>
+    <lastmod>2018-07-12T11:14:48-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://katherinechandler.io/tags/scene/</loc>
-    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
+    <lastmod>2018-07-12T11:14:48-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://katherinechandler.io/tags/</loc>
-    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
+    <lastmod>2018-07-12T11:14:48-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
