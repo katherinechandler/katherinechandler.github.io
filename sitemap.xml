@@ -3,21 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://katherinechandler.io/post/census_post3/</loc>
+    <loc>http://katherinechandler.io/post/kaggle-census-boosted-classifiers/</loc>
     <lastmod>2018-07-10T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://katherinechandler.io/post/zillow_stats_post2/</loc>
+    <loc>http://katherinechandler.io/post/salt-lake-city-zillow-stat-approach/</loc>
     <lastmod>2018-05-01T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://katherinechandler.io/post/zillow_eda_post1/</loc>
+    <loc>http://katherinechandler.io/post/salt-lake-city-zillow-eda/</loc>
     <lastmod>2018-04-01T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
