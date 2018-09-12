@@ -6,10 +6,19 @@
     <description>Recent content in Data Blog on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Jul 2018 10:58:08 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 11 Sep 2018 15:48:17 -0600</lastBuildDate>
     
 	<atom:link href="http://katherinechandler.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Themes in Anthony Bourdain&#39;s &#39;Parts Unknown&#39;</title>
+      <link>http://katherinechandler.io/post/bourdain_nlp_clustering/</link>
+      <pubDate>Tue, 11 Sep 2018 15:48:17 -0600</pubDate>
+      
+      <guid>http://katherinechandler.io/post/bourdain_nlp_clustering/</guid>
+      <description>Like many travelers I was saddened by the death of travel personality Anthony Bourdain. An ongoing (and ridiculous) theme that I espouse is insinuating that Bourdain &amp;lsquo;stole&amp;rsquo; my travel destinations. &amp;ldquo;Pfffff, he WOULD go to Armenia,&amp;rdquo; I complain. But in reality, I greatly valued the always interesting and wonderfully humanistic viewpoint that Bourdain presented while exploring the world&amp;rsquo;s complex places. I&amp;rsquo;ll miss this viewpoint terribly, and in this project I applied NLP and clustering tools to identify overarching themes in Bourdain&amp;rsquo;s CNN series Parts Unknown.</description>
+    </item>
     
     <item>
       <title>Classifying Household Income from US Census Data</title>
@@ -27,6 +36,15 @@ In this blog I present a high-level overview of my analysis.</description>
       <pubDate>Tue, 01 May 2018 10:58:08 -0400</pubDate>
       
       <guid>http://katherinechandler.io/post/salt-lake-city-zillow-stat-approach/</guid>
+      <description>In the previous project I explored the &amp;lsquo;bigger is not better&amp;rsquo; movement with an initial exploratory analysis of active and historic real estate data in the Salt Lake City metro area. I found that small homes in the urban center are more valuable per square foot than large suburban homes and maintain their value more robustly during times of market contraction. In this project, I used statistical inference and linear regression to validate these initial findings and explore the ways in which various factors impact home pricing.</description>
+    </item>
+    
+    <item>
+      <title>Exploring Salt Lake City&#39;s Real Estate Market</title>
+      <link>http://katherinechandler.io/post/themes-parts-unknown/</link>
+      <pubDate>Tue, 01 May 2018 10:58:08 -0400</pubDate>
+      
+      <guid>http://katherinechandler.io/post/themes-parts-unknown/</guid>
       <description>In the previous project I explored the &amp;lsquo;bigger is not better&amp;rsquo; movement with an initial exploratory analysis of active and historic real estate data in the Salt Lake City metro area. I found that small homes in the urban center are more valuable per square foot than large suburban homes and maintain their value more robustly during times of market contraction. In this project, I used statistical inference and linear regression to validate these initial findings and explore the ways in which various factors impact home pricing.</description>
     </item>
     

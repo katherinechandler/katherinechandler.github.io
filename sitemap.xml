@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://katherinechandler.io/post/bourdain_nlp_clustering/</loc>
+    <lastmod>2018-09-11T15:48:17-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://katherinechandler.io/post/kaggle-census-boosted-classifiers/</loc>
     <lastmod>2018-07-10T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -11,6 +18,13 @@
   
   <url>
     <loc>http://katherinechandler.io/post/salt-lake-city-zillow-stat-approach/</loc>
+    <lastmod>2018-05-01T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://katherinechandler.io/post/themes-parts-unknown/</loc>
     <lastmod>2018-05-01T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -37,14 +51,14 @@
   
   <url>
     <loc>http://katherinechandler.io/post/</loc>
-    <lastmod>2018-07-10T10:58:08-04:00</lastmod>
+    <lastmod>2018-09-11T15:48:17-06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://katherinechandler.io/</loc>
-    <lastmod>2018-07-10T10:58:08-04:00</lastmod>
+    <lastmod>2018-09-11T15:48:17-06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
